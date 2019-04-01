@@ -1,0 +1,38 @@
+1 分辨率：   
+绝对单位  px
+相对单位  em   百分比  rem  
+
+
+第一步 布局视口改为理想是口
+第二部 利用JS动态改变不同受极端的fontsize的值
+
+  进入GIT环境
+1  git init----创建GIT库，
+                    git文件夹
+2  git status
+
+3  git add 文件名---暂存区{  porject 1.0
+		 porject 2.0
+		 porject 2.2
+}
+4  git commit-m"   "-----工作区
+
+5  git log 查看当前时间点版本记录
+
+6  git checkout-b  名字        创建分支
+
+7  git checkout        master       分支
+
+如果报错   git branch 查看当前所有分支
+
+8  git merge mardte 合并分支名
+    
+    config   global   冲突
+    
+    git reflog   回滚 
+    
+    git reset -hard  id号
+	    （指针）	
+
+Visual studio code软件
+
